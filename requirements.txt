@@ -1,0 +1,8 @@
+# Core file type detection (Windows-compatible)
+python-magic-bin
+
+# Code quality
+pylint>=3.0.0
+
+# Testing
+pytest>=7.0.0
